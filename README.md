@@ -22,7 +22,7 @@ pyperclip
 - Automaticlly copies generated password to the clipboard with pyperclip
 
 # Setup
-pip install -r requirements.txt
-double click start.bat
-or type console
-py batus.py
+- pip install -r requirements.txt 
+- double click start.bat
+- or type console
+- py batus.py
