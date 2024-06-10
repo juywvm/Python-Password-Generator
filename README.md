@@ -19,4 +19,4 @@ pyperclip
 - Random Generated Password ( Special Symbols )
 - Random Generated Password ( Special Symbols + Numbers )
 - Able to add custom string to the random generated password automaticlly (can select adding custom string to the beginning or end)
-
+- Automaticlly copies generated password to the clipboard
