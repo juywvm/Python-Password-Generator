@@ -25,4 +25,4 @@ pyperclip
 - pip install -r requirements.txt 
 - double click start.bat
 - or type console
-- py batus.py
+- python batus.py
