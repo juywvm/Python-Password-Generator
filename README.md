@@ -2,7 +2,8 @@
 Simple Python Password Generator With Some Cool Ass Features
 
 # Requirements
-colorama==0.4.4
+colorama
+pyperclip
 
 # Batus's Batus's Password Gen Features
 - Custom Length
